@@ -1,2 +1,2 @@
-# Java
-Example of Java stuff
+# Singleton pattern
+Example of singleton pattern
