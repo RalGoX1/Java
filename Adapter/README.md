@@ -1,2 +1,2 @@
 # Java
-Example of Java stuff
+Example of AdapterPattern
