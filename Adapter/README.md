@@ -1,2 +1,2 @@
-# Java
-Example of AdapterPattern
+# Adapter Pattern
+Example of Adapter Pattern
