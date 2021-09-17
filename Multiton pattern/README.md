@@ -1,2 +1,2 @@
-# Java
-Example of Java stuff
+# Multiton pattern
+Example of multiton pattern
