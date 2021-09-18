@@ -1,2 +1,2 @@
-# Java
-Example of Java stuff
+# Proxy pattern
+Example of proxy pattern in Java
